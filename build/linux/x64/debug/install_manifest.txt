@@ -1,0 +1,14 @@
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/news_apk
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/assets/10212423.jpg
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/assets/Hand%20holding%20smartphones%20with%20online%20newspaper,%20newsletter.jpg
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/assets/9977737.jpg
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/eccentricog/Projects/news_apk/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
